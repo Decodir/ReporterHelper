@@ -1,10 +1,6 @@
 {
 	"lastver": "1",
 	"nlink": "https://github.com/Decodir/ReporterHelper/raw/main/reporter_helper.luac",
-	"three": [
-		["Aleksey_Timofeev", 150],
-		["Name_Nick", 150]
-		],
 	"one": [
 		["Alex_Wilde", 150],
 		["Svetlana_Wilde", 150],
@@ -12,5 +8,6 @@
 		["Alexey_Russo", 150],
 		["Name_Nick", 330]
 		],
-	"two": []
+	"two": [],
+    	"three": []
 }
